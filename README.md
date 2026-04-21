@@ -3,6 +3,8 @@ A repository for archiving and sharing the various templates created to improve 
 
 ## About 
 
+## How to use
+
 ## Contributors
 
 ## Contact 
